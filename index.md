@@ -1,0 +1,71 @@
+---
+layout: default
+title: "DD-WRT Companion"
+order: 1
+---
+
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":null,"theme":"dark-top"};
+</script>
+
+<script type="text/javascript" src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+<!-- End Cookie Consent plugin -->
+
+<script type="text/javascript">
+    window.doorbellOptions = {
+        appKey: 'f6ciDeNxz1cbW2TSirLv5hn5btBo353HB6xTkaTvJOCDW5JlJtB1dpkaaGGg6Alb'
+    };
+    (function(d, t) {
+        var g = d.createElement(t);g.id = 'doorbellScript';g.type = 'text/javascript';g.async = true;g.src = 'https://embed.doorbell.io/button/1824?t='+(new Date().getTime());(d.getElementsByTagName('head')[0]||d.getElementsByTagName('body')[0]).appendChild(g);
+    }(document, 'script'));
+</script>
+
+<div class=lead>DD-WRT Companion is a mobile app that lets you connect to, monitor and manage your DD-WRT routers on the go.</div>
+
+
+[![Codewake](https://www.codewake.com/badges/ask_question.svg)](https://www.codewake.com/p/ddwrt-companion)
+
+### TL;DR
+DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems.
+However, its web interface is quite impractical to navigate with from mobile devices.
+
+This app aims at making DD-WRT devices management and monitoring a breeze, right from your mobile  device.
+
+### Introduction
+The overall rationale behind this project is to provide a set of apps dedicated to manage various routers and embedded devices with various firmwares. 
+
+At this time, I am targeting DD-WRT routers, but the implementation aims at being flexible enough to support other firmwares (Tomato, OpenWRT, …) and their variants.
+
+The app currently assumes the Router has a fully working SSH server (and, if required, external access if your router is behind a NAT network). 
+
+It works with both private key and password based authentication methods.
+
+### Supported Platforms
+
+The following platforms are supported so far:
+
+<ul>
+ <li><a href="https://play.google.com/store/apps/details?id=org.rm3l.ddwrt" target="_blank">Android</a></li>
+</ul>
+
+
+### Supporting the project
+If you find this project useful, you can help support further developments, by
+<ul>
+ <li>purchasing the premium full-featured and ad-free version of the app:
+
+<a href="https://play.google.com/store/apps/details?id=org.rm3l.ddwrt&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1" target="_blank"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge-border.png"  width="260" height="85"/></a>
+&nbsp; &nbsp;&nbsp;
+<a href="http://www.amazon.com/Lemra-DD-WRT-Companion/dp/B00RN7HEI4" target="_blank">
+<img src="https://images-na.ssl-images-amazon.com/images/G/01/AmazonMobileApps/amazon-apps-store-us-gray.png" alt="Available at Amazon AppStore" /></a> 
+ </li>
+</ul>
+
+Also feel free to report any issue you might run into or any feature suggestion you might come up with. You can do so from within the app itself or by using the "Send Feedback" button in these pages.
+
+### About
+
+Should you have any questions or issue, please drop me a line at <a href="mailto:apps _AT_ rm3l.org">Armel Soro &lt;apps _AT_ rm3l _DOT_ org&gt;</a> or join me on <a href="https://twitter.com/DDWRT_Companion" target="_blank">twitter://@DDWRT_Companion</a>
+
+
