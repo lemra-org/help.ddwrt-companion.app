@@ -50,7 +50,7 @@ From a computer, use a browser to login to the Web Management Interface of your 
 Note: The app attempts to guess the IP Address of your Router(s), by fetching the gateway address of the network your phone is connected to. Just connect to a Wi-Fi network provided by the Router, and open the app on your Phone.
 
 <div>
-	<img src="https://raw.githubusercontent.com/rm3l/ddwrt-companion/gh-pages/assets/7.1.0/add_new.png" width="280" height="563" alt="Tap on the Add Router Button"/>&nbsp; <img src="https://raw.githubusercontent.com/rm3l/ddwrt-companion/gh-pages/assets/7.1.0/wizard_register_basic_details.png" width="280" height="563" alt="Potential IP Address of the Router"/>
+	<img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/7.1.0/add_new.png" width="280" height="563" alt="Tap on the Add Router Button"/>&nbsp; <img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/7.1.0/wizard_register_basic_details.png" width="280" height="563" alt="Potential IP Address of the Router"/>
 </div>
 
 <!-- 
