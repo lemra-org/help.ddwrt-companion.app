@@ -72,6 +72,6 @@ Also feel free to report any issue you might run into or any feature suggestion 
 
 ### About
 
-Should you have any questions or issue, please drop me a line at <a href="mailto:apps _AT_ rm3l.org">Armel Soro &lt;apps _AT_ rm3l _DOT_ org&gt;</a> or join me on <a href="https://twitter.com/DDWRT_Companion" target="_blank">twitter://@DDWRT_Companion</a>
+Should you have any questions or issue, please drop me a line at <a href="mailto:apps+ddwrt__web@rm3l.org?subject=About+DD-WRT+Companion+App">Armel Soro &lt;apps _AT_ rm3l _DOT_ org&gt;</a> or join me on <a href="https://twitter.com/DDWRT_Companion" target="_blank">twitter://@DDWRT_Companion</a>
 
 
