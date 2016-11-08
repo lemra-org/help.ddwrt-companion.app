@@ -2,6 +2,10 @@ language: ruby
 rvm:
 - 2.2.5
 
+branches:
+  only:
+    - master
+
 cache: bundler
 
 install: gem install jekyll html-proofer && bundle install
