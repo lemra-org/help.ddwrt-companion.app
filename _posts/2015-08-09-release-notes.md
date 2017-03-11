@@ -29,6 +29,39 @@ order: 2
     }(document, 'script'));
 </script> -->
 
+#### 2017-02-20
+Version Code: <b>903000</b> &#124; Version Short Name: <b>9.0.3</b>
+
+- Bug, reliability &amp; performance fixes
+	- Fixed an issue with some hosts not being displayed in the 'Clients list'. This has been rewritten from the ground up with performance in mind
+	- Fixed an issue with WAN Traffic monitoring ending at the 28th of each month
+	- Fixed an issue with toggling Access Policies on some devices: you are now able to explicitly force-enable/disable policies on demand
+
+- New features
+	- Experimental Support for Tomato firmware. This is still highly experimental, and not all features are supported.
+	- Update to overall app look
+
+
+
+#### 2017-01-04
+Version Code: <b>804000</b> &#124; Version Short Name: <b>8.0.4</b>
+
+Happy New Year 2017!
+
+- Bug, reliability &amp; performance fixes
+	- Syslog tile has been rewritten from the ground up, with a focus on usability
+	- Fixed few memory leaks
+	- Fixed potential router connection issues
+
+- New features
+	- Notifications of new DD-WRT Build updates
+	- Ability to reorder list of routers, plus Swipe-To-Remove behaviour
+	- Android N compatibility: app shortcuts
+	- NFC-sharing of WiFi Networks (for compatible devices)
+	-  Auto-Refresh (see individual Router Settings)
+
+
+
 #### 2016-09-21
 Version Code: <b>710052</b> &#124; Version Short Name: <b>7.1.0</b>
 
