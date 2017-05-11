@@ -27,7 +27,7 @@ order: 1
     }(document, 'script'));
 </script> -->
 
-<div class=lead>DD-WRT Companion is a mobile app that lets you connect to, monitor and manage your DD-WRT routers on the go.</div>
+<div class="lead">DD-WRT Companion is a mobile app that lets you connect to, monitor and manage your DD-WRT routers on the go.</div>
 
 
 [![Public Roadmap](https://img.shields.io/badge/Roadmap-Public-ff69b4.svg)](http://ddwrt-companion.rm3l.org/roadmap)
