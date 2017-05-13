@@ -60,7 +60,7 @@ The following platforms are supported so far:
 If you find this project useful, you can help support further developments, by
 <ul>
  <li>purchasing the premium full-featured and ad-free version of the app:
-
+<br/>
 <a href="https://play.google.com/store/apps/details?id=org.rm3l.ddwrt&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1" target="_blank"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge-border.png"  width="260" height="85"/></a>
 &nbsp; &nbsp;&nbsp;
 <a href="http://www.amazon.com/Lemra-DD-WRT-Companion/dp/B00RN7HEI4" target="_blank">

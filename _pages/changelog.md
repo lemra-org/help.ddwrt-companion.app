@@ -19,4 +19,4 @@ date: 2015-08-09 00:06:42
 <script type="text/javascript" src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
 <!-- End Cookie Consent plugin -->
 
-<div class=lead>This page is deprecated and will be removed in a near future - please refer to <a href="/doc/release-notes.html">this one</a> for the Release Notes!</div>
+<div class="lead">This page is deprecated and will be removed in a near future - please refer to <a href="/doc/release-notes.html">this one</a> for the Release Notes!</div>
