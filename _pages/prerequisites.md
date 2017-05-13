@@ -81,7 +81,7 @@ Finish by scrolling down to the bottom of the page. Then click on "Save", then "
 If you have enabled the "Password Login" option in the "Secure Shell" settings, then you will need the following info to let DD-WRT Companion connect to the router:
 <ul>
 <li><u>User</u>: <b>root</b></li>
-<li><u>Password</u>: the password you set in the web interface
+<li><u>Password</u>: the password you set in the web interface</li>
 </ul>
 
 ##### Public/private key
