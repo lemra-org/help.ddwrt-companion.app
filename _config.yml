@@ -33,8 +33,9 @@ sections: [
      # ['features', 'Features'],
      ['doc', 'Documentation'],
      ['tasker', 'Tasker Plugin'],
-     ['android', 'Android'],
-     ['dev', 'Developers']
+     ['android', 'Android']
+     # ,
+     # ['dev', 'Developers']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific
