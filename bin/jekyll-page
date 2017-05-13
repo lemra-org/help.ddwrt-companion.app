@@ -74,7 +74,7 @@ end
 today=Date.today().strftime('%F')
 now=DateTime.now().strftime('%F %T')
 
-filepath = "#{POSTS_DIR}/#{today}-#{filename}.md"
+filepath = "#{POSTS_DIR}/#{today}-#{category}-#{filename}.md"
 symlink = "#{PAGES_DIR}/#{filename}.md"
 
 if File.exists?(filepath)
