@@ -33,7 +33,7 @@ filename = ARGV[2]
 # Resolve any relative links
 BASE_DIR = File.expand_path(options[:path])
 POSTS_DIR = "#{BASE_DIR}/_posts"
-PAGES_DIR = "#{BASE_DIR}/_pages"
+PAGES_DIR = "#{BASE_DIR}/_pages/#{category}"
 
 # Ensure the _posts directory exists (we are in the correct directory)
 if not Dir.exists?(POSTS_DIR)
