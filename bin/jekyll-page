@@ -88,6 +88,8 @@ layout: page
 title: \"#{title}\"
 category: #{category}
 date: #{now}
+order: 1
+disqus: 1
 ---
 
 
