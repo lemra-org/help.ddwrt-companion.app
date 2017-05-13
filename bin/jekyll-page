@@ -33,7 +33,8 @@ filename = ARGV[2]
 # Resolve any relative links
 BASE_DIR = File.expand_path(options[:path])
 POSTS_DIR = "#{BASE_DIR}/_posts"
-PAGES_DIR = "#{BASE_DIR}/_pages/#{category}"
+PAGES_ROOT_DIR = "#{BASE_DIR}/_pages"
+PAGES_DIR = "#{PAGES_ROOT_DIR}/#{category}"
 
 # Ensure the _posts directory exists (we are in the correct directory)
 if not Dir.exists?(POSTS_DIR)
@@ -41,7 +42,10 @@ if not Dir.exists?(POSTS_DIR)
     exit
 end
 
-# Create _pages directory if it doesn't exist
+# Create _pages root and category directories if they do not exist
+if not Dir.exists?(PAGES_ROOT_DIR)
+    Dir.mkdir(PAGES_ROOT_DIR)
+end
 if not Dir.exists?(PAGES_DIR)
     Dir.mkdir(PAGES_DIR)
 end
@@ -99,7 +103,7 @@ File.open(filepath, 'w') do |file|
     file.puts content
 end
 
-File.symlink("../_posts/#{today}-#{filename}.md", symlink)
+File.symlink("../../_posts/#{today}-#{category}-#{filename}.md", symlink)
 
 if options[:edit]
     if not ENV['EDITOR']
