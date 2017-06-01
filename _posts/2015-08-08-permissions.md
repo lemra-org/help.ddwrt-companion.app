@@ -44,12 +44,14 @@ Note that the names of these permissions and how they are displayed on your devi
 We may update this list as we keep enriching the app with additional capabilities that may require new permissions. So please check back here to learn more about which permissions we request and how we use them. 
 <br/><br/>
 
-#### Full network access
+#### Internet - Full network access
 We use network access to:
 <ul>
 <li>establish remote SSH connections to your routers, obviously</li>
-<li>gather and send your valuable feedback to a dedicated backend hosted on https://doorbell.io </li>
+<li>gather and privately upload your valuable feedback to dedicated backends hosted on https://doorbell.io and https://aws.amazon.com/s3/</li>
 <li>retrieve your router public IP address on the Internet, using http://icanhazip.com , if allowed in the router settings </li>
+<li>resolve MAC addresses, via a dedicated backend on http://tools.rm3l.org</li>
+<li>lookup and geolocate IP Addresses via https://dazzlepod.com</li>
 <li>fetch your router avatars on http://cloudinary.com</li>
 <li>leverage the Android's Backup Service so as to provide a restore point for the app data and settings</li>
 <li>report crash errors to dedicated backends hosted on http://www.tracepot.com and https://fabric.io, provided you allowed it in the app preferences</li>
