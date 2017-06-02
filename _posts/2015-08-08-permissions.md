@@ -76,6 +76,7 @@ We run at startup if you choose to enable the Background Service in the app pref
 This way, the app can perform the following actions in background (i.e., even if you never open the app per se):
 <ul>
 <li>display notifications about devices connected to your router(s)</li>
+<li>display notifications about public and WAN IP addresses changes</li>
 </ul>
 The frequency at which this background service synchronizes with the router is controlled by you in the preferences.
 
