@@ -47,6 +47,41 @@ order: 2
     })(window,document,window['_fs_namespace'],'script','user');
 </script>
 
+
+#### 2017-11-06
+Version Code: <b>1001003</b> &#124; Version Short Name: <b>10.1.0-3</b>
+
+- Enhancements and new features
+	- Full compatibility with Android Oreo 8.0
+	- Manually check for firmware updates
+	- Custom router icons
+	- Automatic speed tests and display results in either bits or bytes
+	- Prevent routers from being deleted accidentally
+	- Update to overall look and feel
+	- Experimental Support for Tomato firmware: added more features
+
+- Bug, reliability &amp; performance fixes
+	- Fixed issue with clients list not displaying under certain circumstances
+	- Router list was being reordered whenever an entry was updated
+	- Battery-efficient background jobs
+
+
+
+#### 2017-05-14
+Version Code: <b>905000</b> &#124; Version Short Name: <b>9.0.5</b>
+
+- Bug, reliability &amp; performance fixes
+	- Fixed resolution of public IP addresses
+	- Fixed an issue with some hosts not being displayed in the 'Clients list'
+	- Fixed an issue with 'DD-WRT Beta Builds notification', sometimes not displaying
+	- Addressed few memory leaks
+
+<u>NOTE<u>: The product roadmap for this app is now public.
+Visit <a href="http://ddwrt-companion.rm3l.org/roadmap">http://ddwrt-companion.rm3l.org/roadmap</a> to vote for the features you would like to have supported.
+As always, feel free to submit feature requests at apps+ddwrt@rm3l.org
+
+
+
 #### 2017-02-20
 Version Code: <b>903000</b> &#124; Version Short Name: <b>9.0.3</b>
 
