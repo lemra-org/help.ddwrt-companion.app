@@ -76,7 +76,7 @@ Version Code: <b>905000</b> &#124; Version Short Name: <b>9.0.5</b>
 	- Fixed an issue with 'DD-WRT Beta Builds notification', sometimes not displaying
 	- Addressed few memory leaks
 
-<u>NOTE<u>: The product roadmap for this app is now public.
+<u>NOTE</u>: The product roadmap for this app is now public.
 Visit <a href="http://ddwrt-companion.rm3l.org/roadmap">http://ddwrt-companion.rm3l.org/roadmap</a> to vote for the features you would like to have supported.
 As always, feel free to submit feature requests at apps+ddwrt@rm3l.org
 
