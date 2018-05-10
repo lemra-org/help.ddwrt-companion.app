@@ -74,7 +74,7 @@ We use network access to:
 <li>leverage the Android's Backup Service so as to provide a restore point for the app data and settings</li>
 <li>report crash errors to dedicated backends hosted on http://www.tracepot.com and https://fabric.io, provided you allowed it in the app preferences</li>
 <li>fetch ads, in the Lite version of the app</li>
-<li>provide the "Help" menu, which currently displays this website (http://help.ddwrt-companion.rm3l.org)</li>
+<li>provide the "Help" menu, which currently displays this website (https://help.ddwrt-companion.app)</li>
 </ul>
 
 

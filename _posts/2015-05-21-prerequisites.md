@@ -68,7 +68,7 @@ From a computer, use a browser to login to the Web Management Interface of your 
 Note: The app attempts to guess the IP Address of your Router(s), by fetching the gateway address of the network your phone is connected to. Just connect to a Wi-Fi network provided by the Router, and open the app on your Phone.
 
 <div>
-	<img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/7.1.0/add_new.png" width="280" height="563" alt="Tap on the Add Router Button"/>&nbsp; <img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/7.1.0/wizard_register_basic_details.png" width="280" height="563" alt="Potential IP Address of the Router"/>
+	<img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/7.1.0/add_new.png" width="280" height="563" alt="Tap on the Add Router Button"/>&nbsp; <img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/7.1.0/wizard_register_basic_details.png" width="280" height="563" alt="Potential IP Address of the Router"/>
 </div>
 
 <!-- 
@@ -78,7 +78,7 @@ Note: The app attempts to guess the IP Address of your Router(s), by fetching th
 <br/>
 Once on the Web Management Page of your Router, select the "Services" tab
 
-![DD-WRT Web Interface - Services tab](https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/ddwrt_web_services_tab.png)
+![DD-WRT Web Interface - Services tab](https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/ddwrt_web_services_tab.png)
 
 <br/>
 Now scroll down to the "Secure Shell" settings, and make sure you have "SSHd" enabled, and either "Password Login" enabled (for password-based authentication) or "Authorized Keys" filled out (for public/private key authentication) , or both. 
@@ -87,12 +87,12 @@ The default port for SSH is 22, but it is recommended that you change it to a no
 
 For example:
 
-![DD-WRT Web Interface - Secure Shell](https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/ddwrt_web__secure_shell.png)
+![DD-WRT Web Interface - Secure Shell](https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/ddwrt_web__secure_shell.png)
 
 <br/>
 Finish by scrolling down to the bottom of the page. Then click on "Save", then "Apply Settings", and "Reboot Router" buttons:
 
-![DD-WRT Web Interface - Secure Shell](https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/ddwrt_web__save_apply_reboot_buttons.png)
+![DD-WRT Web Interface - Secure Shell](https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/ddwrt_web__save_apply_reboot_buttons.png)
 
 
 ##### Password method
@@ -139,7 +139,7 @@ jedi:~ rm3l$
 ```
 
 
-![DD-WRT Web Interface - Secure Shell](https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/ddwrt_web__secure_shell__pubkey.png) 
+![DD-WRT Web Interface - Secure Shell](https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/ddwrt_web__secure_shell__pubkey.png) 
 
 <br/>
 As the name implies, the public key is intended to be public, while the private key must be kept secret.
@@ -159,7 +159,7 @@ To enable remote SSH access (see the screen capture below):
 <li>Click on "Save", then "Apply Settings", and "Reboot Router" buttons</li>
 </ol>
 
-![DD-WRT Web Interface - Remote SSH](https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/ddwrt_web__secure_shell__remote.png)
+![DD-WRT Web Interface - Remote SSH](https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/ddwrt_web__secure_shell__remote.png)
 
 #### Testing the setup
 

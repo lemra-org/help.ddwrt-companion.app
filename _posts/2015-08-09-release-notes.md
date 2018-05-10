@@ -77,7 +77,7 @@ Version Code: <b>905000</b> &#124; Version Short Name: <b>9.0.5</b>
 	- Addressed few memory leaks
 
 <u>NOTE</u>: The product roadmap for this app is now public.
-Visit <a href="http://ddwrt-companion.rm3l.org/roadmap">http://ddwrt-companion.rm3l.org/roadmap</a> to vote for the features you would like to have supported.
+Visit <a href="https://ddwrt-companion.app/roadmap">https://ddwrt-companion.app/roadmap</a> to vote for the features you would like to have supported.
 As always, feel free to submit feature requests at apps+ddwrt@rm3l.org
 
 
@@ -230,7 +230,7 @@ Version Code: <b>400000</b> &#124; Version Short Name: <b>4.0.0</b>
 
 - Bug, reliability &amp; performance fixes
 	- Review &amp; clean-up app permissions
-		- NOTE: Many of you have reported intrusive permissions requests from 3.3.0 version, such as Location and Identity. Those permissions were inadvertently inherited from some third-party libraries used throughout the app. As they are not relevant whatsoever for this app, they have been removed. For your information, <a href="http://help.ddwrt-companion.rm3l.org/android/permissions.html">this page</a> lists the sole permissions required by the app. Thanks for your feedbacks.
+		- NOTE: Many of you have reported intrusive permissions requests from 3.3.0 version, such as Location and Identity. Those permissions were inadvertently inherited from some third-party libraries used throughout the app. As they are not relevant whatsoever for this app, they have been removed. For your information, <a href="https://help.ddwrt-companion.app/android/permissions.html">this page</a> lists the sole permissions required by the app. Thanks for your feedbacks.
 	- WAN monitoring graphs now fixed
 	- Fixed data retrieval issues on some devices
 

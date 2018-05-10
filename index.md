@@ -48,7 +48,7 @@ order: 1
 <div class="lead">DD-WRT Companion is a mobile app that lets you connect to, monitor and manage your DD-WRT routers on the go.</div>
 
 
-[![Public Roadmap](https://img.shields.io/badge/Roadmap-vote%20for%20features-ff69b4.svg)](http://ddwrt-companion.rm3l.org/roadmap)
+[![Public Roadmap](https://img.shields.io/badge/Roadmap-vote%20for%20features-ff69b4.svg)](https://ddwrt-companion.app/roadmap)
 
 ### TL;DR
 DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems.

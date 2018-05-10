@@ -48,7 +48,7 @@ To use <a href="https://play.google.com/store/apps/details?id=org.rm3l.ddwrt.tas
 <li>Open Tasker. Then switch to the "Tasks" tab. Edit existing tasks, or create a new one. In the "Task Edit" window, you will be able to add an Action by clicking on the '+' symbol.
 
 <div>
-	<img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/tasker/1-open-tasker.png" width="280" height="563" alt="Open Tasker and click on the 'Tasks' tab"/>&nbsp; <img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/tasker/2-task-edit.png" width="280" height="563" alt="Edit Task actions"/>&nbsp; <img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/tasker/3-task-edit-select-action.png" width="280" height="563" alt="Edit Task actions"/>
+	<img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/tasker/1-open-tasker.png" width="280" height="563" alt="Open Tasker and click on the 'Tasks' tab"/>&nbsp; <img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/tasker/2-task-edit.png" width="280" height="563" alt="Edit Task actions"/>&nbsp; <img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/tasker/3-task-edit-select-action.png" width="280" height="563" alt="Edit Task actions"/>
 </div>
 <br/>
 <br/>
@@ -58,7 +58,7 @@ To use <a href="https://play.google.com/store/apps/details?id=org.rm3l.ddwrt.tas
 Select the appropriate router and command to send out, and fill in the proper parameters as needed. Do <b>not</b> forget to <b>save</b> your configuration.
 
 <div>
-	<img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/tasker/3-task-edit-select-action-plugin.png" width="280" height="563" alt="Click Plugins"/>&nbsp; <img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/tasker/4-action-edit.png" width="280" height="563" alt="Select DD-WRT Companion Tasker plugin"/>&nbsp; <img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/tasker/5-tasker-plugin-configuration.png" width="280" height="563" alt="Edit Plugin Configuration"/>
+	<img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/tasker/3-task-edit-select-action-plugin.png" width="280" height="563" alt="Click Plugins"/>&nbsp; <img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/tasker/4-action-edit.png" width="280" height="563" alt="Select DD-WRT Companion Tasker plugin"/>&nbsp; <img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/tasker/5-tasker-plugin-configuration.png" width="280" height="563" alt="Edit Plugin Configuration"/>
 </div>
 <br/>
 <br/>
@@ -67,7 +67,7 @@ Select the appropriate router and command to send out, and fill in the proper pa
 <li>Once validated, you will see a confirmation of some of the settings. You can return back to Tasker tasks. 
 
 <div>
-	<img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/tasker/5-tasker-plugin-configuration-validated.png" width="280" height="563" alt="Plugin configuration saved"/>&nbsp; <img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/tasker/6-task-edit-with-actions.png" width="280" height="563" alt="View all actions in task"/>
+	<img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/tasker/5-tasker-plugin-configuration-validated.png" width="280" height="563" alt="Plugin configuration saved"/>&nbsp; <img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/tasker/6-task-edit-with-actions.png" width="280" height="563" alt="View all actions in task"/>
 </div>
 At this stage, you can manually test the configuration by executing the Action (click on the '>' button).
 <br/>
@@ -79,7 +79,7 @@ At this stage, you can manually test the configuration by executing the Action (
 For example:
 
 <div>
-	<img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/tasker/7-tasker-with-test-task.png" width="280" height="563" alt="Task added to Tasker"/>&nbsp; <img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.rm3l.org/master/assets/tasker/10-example-profile.png" width="280" height="563" alt="Sample profile"/>
+	<img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/tasker/7-tasker-with-test-task.png" width="280" height="563" alt="Task added to Tasker"/>&nbsp; <img src="https://raw.githubusercontent.com/rm3l/help.ddwrt-companion.app/master/assets/tasker/10-example-profile.png" width="280" height="563" alt="Sample profile"/>
 </div>
 <br/>
 <br/>
