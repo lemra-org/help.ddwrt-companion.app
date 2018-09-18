@@ -33,7 +33,8 @@ sections: [
      # ['features', 'Features'],
      ['doc', 'Documentation'],
      ['tasker', 'Tasker Plugin'],
-     ['android', 'Android']
+     ['android', 'Android'],
+     ['about', 'About']
      # ,
      # ['dev', 'Developers']
 ]
